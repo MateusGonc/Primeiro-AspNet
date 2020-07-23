@@ -1,0 +1,24 @@
+﻿.jogo {
+    padding-right: 20px;
+    position: relative;
+    float: left;
+    padding-top: 30px;
+    cursor:pointer;
+}
+.capa-jogo{
+    width: 200px;
+    height: 280px;
+    border: 1px solid black;
+}
+
+.capa-jogo-img{
+    width:200px;
+    height:280px;
+}
+
+.nome-jogo {
+    margin-top: 10px;
+    font-family: Verdana;
+    font-size: 12px;
+    text-align: center;
+}

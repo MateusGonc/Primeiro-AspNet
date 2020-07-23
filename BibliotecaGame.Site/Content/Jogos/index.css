@@ -1,0 +1,15 @@
+﻿#MenuPrincipal {
+    background-color: #D3D3D3;
+    width: 100%;
+    height: 80px;
+    padding: 10px 0 0 40px;
+}
+
+    #MenuPrincipal ul.level2 {
+        background-color: #C0C0C0;
+    }
+
+    #MenuPrincipal ul.level2 a {
+        padding: 5px;
+        color: white;
+    }

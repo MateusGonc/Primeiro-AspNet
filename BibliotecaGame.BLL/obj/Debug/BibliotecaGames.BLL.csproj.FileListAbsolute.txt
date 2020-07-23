@@ -1,0 +1,11 @@
+C:\Users\mateu\source\repos\BibliotecaGames\BibliotecaGame.BLL\bin\Debug\BibliotecaGame.BLL.dll
+C:\Users\mateu\source\repos\BibliotecaGames\BibliotecaGame.BLL\bin\Debug\BibliotecaGame.BLL.pdb
+C:\Users\mateu\source\repos\BibliotecaGames\BibliotecaGame.BLL\bin\Debug\BibliotecaGames.DAL.dll
+C:\Users\mateu\source\repos\BibliotecaGames\BibliotecaGame.BLL\bin\Debug\BibliotecaGames.Entities.dll
+C:\Users\mateu\source\repos\BibliotecaGames\BibliotecaGame.BLL\bin\Debug\BibliotecaGames.DAL.pdb
+C:\Users\mateu\source\repos\BibliotecaGames\BibliotecaGame.BLL\bin\Debug\BibliotecaGames.Entities.pdb
+C:\Users\mateu\source\repos\BibliotecaGames\BibliotecaGame.BLL\obj\Debug\BibliotecaGames.BLL.csprojAssemblyReference.cache
+C:\Users\mateu\source\repos\BibliotecaGames\BibliotecaGame.BLL\obj\Debug\BibliotecaGames.BLL.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\BibliotecaGames\BibliotecaGame.BLL\obj\Debug\BibliotecaGames.BLL.csproj.CopyComplete
+C:\Users\mateu\source\repos\BibliotecaGames\BibliotecaGame.BLL\obj\Debug\BibliotecaGame.BLL.dll
+C:\Users\mateu\source\repos\BibliotecaGames\BibliotecaGame.BLL\obj\Debug\BibliotecaGame.BLL.pdb
